@@ -1,0 +1,83 @@
+Country Name,Country Code,Series Name,Series Code,2021 [YR2021],2022 [YR2022],2023 [YR2023],2024 [YR2024],2025 [YR2025]
+Brunei Darussalam,BRN,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,7.41473381939997,7.47961376576273,7.56922294285959,..,..
+Brunei Darussalam,BRN,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,9.9862,9.5371,9.7036,9.3667,..
+Brunei Darussalam,BRN,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,0.1097,0.1303,0.1301,0.1316,..
+Brunei Darussalam,BRN,Population density (people per sq. km of land area),EN.POP.DNST,85.715559772296,86.4079696394687,87.0870967741936,87.8028462998102,..
+Brunei Darussalam,BRN,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..,..,..
+Brunei Darussalam,BRN,Forest area (sq. km),AG.LND.FRST.K2,3800,3800,3800,3800,3800
+Brunei Darussalam,BRN,Forest area (% of land area),AG.LND.FRST.ZS,72.1062618595825,72.1062618595825,72.1062618595825,72.1062618595825,..
+Cambodia,KHM,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.5777877942962,19.8334520389805,19.4262068786841,..,..
+Cambodia,KHM,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,18.4826,18.3849,18.9162,19.4392,..
+Cambodia,KHM,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,3.6281,3.7106,3.7109,3.7583,..
+Cambodia,KHM,Population density (people per sq. km of land area),EN.POP.DNST,96.160803308407,97.4491502379334,98.7076818490823,99.9252266032178,..
+Cambodia,KHM,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..,..,..
+Cambodia,KHM,Forest area (sq. km),AG.LND.FRST.K2,75681.1,72593.7,69506.4,66419,63331.7
+Cambodia,KHM,Forest area (% of land area),AG.LND.FRST.ZS,42.8739519601178,41.1249150237933,39.3759347382733,37.6268978019488,..
+Indonesia,IDN,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.9850538348218,19.7659265420197,20.8444642120249,..,..
+Indonesia,IDN,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,622.6868,722.6996,772.5618,812.2042,..
+Indonesia,IDN,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,54.3201,57.1806,59.5064,59.6695,..
+Indonesia,IDN,Population density (people per sq. km of land area),EN.POP.DNST,146.235107708626,147.330172880003,148.588336368467,149.802588244483,..
+Indonesia,IDN,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..,..,..
+Indonesia,IDN,Forest area (sq. km),AG.LND.FRST.K2,956433.8,957248.6,958063.4,958878.2,959693
+Indonesia,IDN,Forest area (% of land area),AG.LND.FRST.ZS,50.536632355616,50.5796844531111,50.6266271281612,50.6696830671111,..
+Lao PDR,LAO,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,26.0671819322606,25.3425878362043,25.9762899979383,..,..
+Lao PDR,LAO,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,23.8166,24.0315,25.7437,26.0627,..
+Lao PDR,LAO,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,5.9025,5.244,5.238,5.2995,..
+Lao PDR,LAO,Population density (people per sq. km of land area),EN.POP.DNST,32.2928682842288,32.7513301559792,33.2105415944541,33.6647270363951,..
+Lao PDR,LAO,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..,..,..
+Lao PDR,LAO,Forest area (sq. km),AG.LND.FRST.K2,131773.8,131420.4,131067.1,130713.7,130360.4
+Lao PDR,LAO,Forest area (% of land area),AG.LND.FRST.ZS,57.0943674176776,56.9412478336222,56.788171577123,56.6350519930676,..
+Myanmar,MMR,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,36.8613783730995,32.8498528834077,35.0665284656219,..,..
+Myanmar,MMR,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,31.8377,31.031,31.241,31.3628,..
+Myanmar,MMR,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,3.0509,3.6608,3.6644,3.6931,..
+Myanmar,MMR,Population density (people per sq. km of land area),EN.POP.DNST,81.7980020531049,82.3644215300228,82.9420656687147,83.5032880322368,..
+Myanmar,MMR,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..,..,..
+Myanmar,MMR,Forest area (sq. km),AG.LND.FRST.K2,282541.7,279644.6,276747.4,273850.3,270953.2
+Myanmar,MMR,Forest area (% of land area),AG.LND.FRST.ZS,43.290131306786,42.8462469548164,42.4023472811681,41.9584629291985,..
+Philippines,PHL,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,22.7416729471695,24.241932485757,22.2053003753671,..,..
+Philippines,PHL,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,145.6114,151.7004,162.4527,174.1143,..
+Philippines,PHL,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,11.7439,12.4705,12.4998,12.6768,..
+Philippines,PHL,Population density (people per sq. km of land area),EN.POP.DNST,379.317000368917,382.21262367106,385.321122178623,388.515511285508,..
+Philippines,PHL,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..,..,..
+Philippines,PHL,Forest area (sq. km),AG.LND.FRST.K2,72688.4,73112.9,73537.4,73961.9,74386.4
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,24.3781735251702,24.5205419727001,24.6629104202301,24.80527886776,..
+Singapore,SGP,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,13.8183890637078,15.0924840424926,15.1427300261359,..,..
+Singapore,SGP,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,55.7179,56.3467,56.1013,58.8681,..
+Singapore,SGP,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,10.0906,9.71,9.7965,10.4061,..
+Singapore,SGP,Population density (people per sq. km of land area),EN.POP.DNST,7596.55383758184,7803.18660022148,8178.06522940851,8329.00110375276,..
+Singapore,SGP,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..,..,..
+Singapore,SGP,Forest area (sq. km),AG.LND.FRST.K2,158,158,158,158,158
+Singapore,SGP,Forest area (% of land area),AG.LND.FRST.ZS,22.0086363003204,21.8715393133998,21.8352681039248,21.7991169977925,..
+Timor-Leste,TLS,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,12.917068808454,12.7214619688248,11.9874398587491,..,..
+Timor-Leste,TLS,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,0.7107,0.6946,0.6644,0.6994,..
+Timor-Leste,TLS,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,0.0037,0.0037,0.0037,0.0038,..
+Timor-Leste,TLS,Population density (people per sq. km of land area),EN.POP.DNST,90.7961667787492,92.0843981170141,93.0925353059852,94.1921990585071,..
+Timor-Leste,TLS,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..,..,..
+Timor-Leste,TLS,Forest area (sq. km),AG.LND.FRST.K2,10577.2,10568.7,10560.3,10551.8,10543.3
+Timor-Leste,TLS,Forest area (% of land area),AG.LND.FRST.ZS,71.1311365164761,71.0739744451917,71.0174848688635,70.960322797579,..
+Viet Nam,VNM,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,25.2349538086608,25.5235044035632,24.7845479100313,..,..
+Viet Nam,VNM,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,336.1703,343.9999,390.7253,430.8192,..
+Viet Nam,VNM,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,50.3753,53.2073,50.1898,50.2806,..
+Viet Nam,VNM,Population density (people per sq. km of land area),EN.POP.DNST,315.653937574379,318.032648542413,320.175197572656,322.202750862237,..
+Viet Nam,VNM,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..,..,..
+Viet Nam,VNM,Forest area (sq. km),AG.LND.FRST.K2,146997.9,147223.6,147449.4,147675.1,147900.8
+Viet Nam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,46.8999039654914,46.9719138943748,47.0439557284106,47.115965657294,..
+Malaysia,MYS,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,14.1005683018031,15.3331668435575,15.8650142432827,..,..
+Malaysia,MYS,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,257.9155,276.9845,282.3786,295.9542,..
+Malaysia,MYS,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,18.9844,19.0481,19.2129,19.5404,..
+Malaysia,MYS,Population density (people per sq. km of land area),EN.POP.DNST,104.344541165728,105.601865773855,106.913096941105,108.226063004109,..
+Malaysia,MYS,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..,..,..
+Malaysia,MYS,Forest area (sq. km),AG.LND.FRST.K2,191247.4,190647.4,190047.4,189447.4,188847.4
+Malaysia,MYS,Forest area (% of land area),AG.LND.FRST.ZS,58.2095267082636,58.0269061025719,57.8442854968802,57.6616648911886,..
+Thailand,THA,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,23.8087317782197,23.7248825508583,23.4870743016258,..,..
+Thailand,THA,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,268.5767,284.314,275.0344,283.8091,..
+Thailand,THA,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,29.5023,29.609,29.2105,29.6902,..
+Thailand,THA,Population density (people per sq. km of land area),EN.POP.DNST,140.396821233534,140.412474309538,140.348088629646,140.280708175928,..
+Thailand,THA,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..,..,..
+Thailand,THA,Forest area (sq. km),AG.LND.FRST.K2,201995.4,200615.3,199235.1,197855,196474.8
+Thailand,THA,Forest area (% of land area),AG.LND.FRST.ZS,39.5379435886394,39.267807160054,38.9976511577835,38.7275147291981,..
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,
+Last Updated: 10/08/2026,,,,,,,,

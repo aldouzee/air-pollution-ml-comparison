@@ -1,0 +1,596 @@
+Country Name,Country Code,Series Name,Series Code,2021 [YR2021],2022 [YR2022],2023 [YR2023],2024 [YR2024],2025 [YR2025]
+Brunei Darussalam,BRN,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,7.41473381939997,7.47961376576273,7.56922294285959,..,..
+Brunei Darussalam,BRN,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,9.9862,9.5371,9.7036,9.3667,..
+Brunei Darussalam,BRN,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,0.1097,0.1303,0.1301,0.1316,..
+Brunei Darussalam,BRN,Population density (people per sq. km of land area),EN.POP.DNST,85.715559772296,86.4079696394687,87.0870967741936,87.8028462998102,..
+Brunei Darussalam,BRN,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..,..,..
+Brunei Darussalam,BRN,Forest area (sq. km),AG.LND.FRST.K2,3800,3800,3800,3800,3800
+Brunei Darussalam,BRN,Forest area (% of land area),AG.LND.FRST.ZS,72.1062618595825,72.1062618595825,72.1062618595825,72.1062618595825,..
+Cambodia,KHM,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.5777877942962,19.8334520389805,19.4262068786841,..,..
+Cambodia,KHM,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,18.4826,18.3849,18.9162,19.4392,..
+Cambodia,KHM,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,3.6281,3.7106,3.7109,3.7583,..
+Cambodia,KHM,Population density (people per sq. km of land area),EN.POP.DNST,96.160803308407,97.4491502379334,98.7076818490823,99.9252266032178,..
+Cambodia,KHM,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..,..,..
+Cambodia,KHM,Forest area (sq. km),AG.LND.FRST.K2,75681.1,72593.7,69506.4,66419,63331.7
+Cambodia,KHM,Forest area (% of land area),AG.LND.FRST.ZS,42.8739519601178,41.1249150237933,39.3759347382733,37.6268978019488,..
+Indonesia,IDN,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.9850538348218,19.7659265420197,20.8444642120249,..,..
+Indonesia,IDN,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,622.6868,722.6996,772.5618,812.2042,..
+Indonesia,IDN,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,54.3201,57.1806,59.5064,59.6695,..
+Indonesia,IDN,Population density (people per sq. km of land area),EN.POP.DNST,146.235107708626,147.330172880003,148.588336368467,149.802588244483,..
+Indonesia,IDN,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..,..,..
+Indonesia,IDN,Forest area (sq. km),AG.LND.FRST.K2,956433.8,957248.6,958063.4,958878.2,959693
+Indonesia,IDN,Forest area (% of land area),AG.LND.FRST.ZS,50.536632355616,50.5796844531111,50.6266271281612,50.6696830671111,..
+Lao PDR,LAO,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,26.0671819322606,25.3425878362043,25.9762899979383,..,..
+Lao PDR,LAO,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,23.8166,24.0315,25.7437,26.0627,..
+Lao PDR,LAO,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,5.9025,5.244,5.238,5.2995,..
+Lao PDR,LAO,Population density (people per sq. km of land area),EN.POP.DNST,32.2928682842288,32.7513301559792,33.2105415944541,33.6647270363951,..
+Lao PDR,LAO,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..,..,..
+Lao PDR,LAO,Forest area (sq. km),AG.LND.FRST.K2,131773.8,131420.4,131067.1,130713.7,130360.4
+Lao PDR,LAO,Forest area (% of land area),AG.LND.FRST.ZS,57.0943674176776,56.9412478336222,56.788171577123,56.6350519930676,..
+Myanmar,MMR,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,36.8613783730995,32.8498528834077,35.0665284656219,..,..
+Myanmar,MMR,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,31.8377,31.031,31.241,31.3628,..
+Myanmar,MMR,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,3.0509,3.6608,3.6644,3.6931,..
+Myanmar,MMR,Population density (people per sq. km of land area),EN.POP.DNST,81.7980020531049,82.3644215300228,82.9420656687147,83.5032880322368,..
+Myanmar,MMR,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..,..,..
+Myanmar,MMR,Forest area (sq. km),AG.LND.FRST.K2,282541.7,279644.6,276747.4,273850.3,270953.2
+Myanmar,MMR,Forest area (% of land area),AG.LND.FRST.ZS,43.290131306786,42.8462469548164,42.4023472811681,41.9584629291985,..
+Philippines,PHL,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,22.7416729471695,24.241932485757,22.2053003753671,..,..
+Philippines,PHL,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,145.6114,151.7004,162.4527,174.1143,..
+Philippines,PHL,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,11.7439,12.4705,12.4998,12.6768,..
+Philippines,PHL,Population density (people per sq. km of land area),EN.POP.DNST,379.317000368917,382.21262367106,385.321122178623,388.515511285508,..
+Philippines,PHL,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..,..,..
+Philippines,PHL,Forest area (sq. km),AG.LND.FRST.K2,72688.4,73112.9,73537.4,73961.9,74386.4
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,24.3781735251702,24.5205419727001,24.6629104202301,24.80527886776,..
+Singapore,SGP,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,13.8183890637078,15.0924840424926,15.1427300261359,..,..
+Singapore,SGP,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,55.7179,56.3467,56.1013,58.8681,..
+Singapore,SGP,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,10.0906,9.71,9.7965,10.4061,..
+Singapore,SGP,Population density (people per sq. km of land area),EN.POP.DNST,7596.55383758184,7803.18660022148,8178.06522940851,8329.00110375276,..
+Singapore,SGP,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..,..,..
+Singapore,SGP,Forest area (sq. km),AG.LND.FRST.K2,158,158,158,158,158
+Singapore,SGP,Forest area (% of land area),AG.LND.FRST.ZS,22.0086363003204,21.8715393133998,21.8352681039248,21.7991169977925,..
+Timor-Leste,TLS,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,12.917068808454,12.7214619688248,11.9874398587491,..,..
+Timor-Leste,TLS,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,0.7107,0.6946,0.6644,0.6994,..
+Timor-Leste,TLS,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,0.0037,0.0037,0.0037,0.0038,..
+Timor-Leste,TLS,Population density (people per sq. km of land area),EN.POP.DNST,90.7961667787492,92.0843981170141,93.0925353059852,94.1921990585071,..
+Timor-Leste,TLS,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..,..,..
+Timor-Leste,TLS,Forest area (sq. km),AG.LND.FRST.K2,10577.2,10568.7,10560.3,10551.8,10543.3
+Timor-Leste,TLS,Forest area (% of land area),AG.LND.FRST.ZS,71.1311365164761,71.0739744451917,71.0174848688635,70.960322797579,..
+Viet Nam,VNM,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,25.2349538086608,25.5235044035632,24.7845479100313,..,..
+Viet Nam,VNM,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,336.1703,343.9999,390.7253,430.8192,..
+Viet Nam,VNM,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,50.3753,53.2073,50.1898,50.2806,..
+Viet Nam,VNM,Population density (people per sq. km of land area),EN.POP.DNST,315.653937574379,318.032648542413,320.175197572656,322.202750862237,..
+Viet Nam,VNM,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..,..,..
+Viet Nam,VNM,Forest area (sq. km),AG.LND.FRST.K2,146997.9,147223.6,147449.4,147675.1,147900.8
+Viet Nam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,46.8999039654914,46.9719138943748,47.0439557284106,47.115965657294,..
+Malaysia,MYS,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,14.1005683018031,15.3331668435575,15.8650142432827,..,..
+Malaysia,MYS,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,257.9155,276.9845,282.3786,295.9542,..
+Malaysia,MYS,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,18.9844,19.0481,19.2129,19.5404,..
+Malaysia,MYS,Population density (people per sq. km of land area),EN.POP.DNST,104.344541165728,105.601865773855,106.913096941105,108.226063004109,..
+Malaysia,MYS,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..,..,..
+Malaysia,MYS,Forest area (sq. km),AG.LND.FRST.K2,191247.4,190647.4,190047.4,189447.4,188847.4
+Malaysia,MYS,Forest area (% of land area),AG.LND.FRST.ZS,58.2095267082636,58.0269061025719,57.8442854968802,57.6616648911886,..
+Thailand,THA,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,23.8087317782197,23.7248825508583,23.4870743016258,..,..
+Thailand,THA,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,268.5767,284.314,275.0344,283.8091,..
+Thailand,THA,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,29.5023,29.609,29.2105,29.6902,..
+Thailand,THA,Population density (people per sq. km of land area),EN.POP.DNST,140.396821233534,140.412474309538,140.348088629646,140.280708175928,..
+Thailand,THA,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..,..,..
+Thailand,THA,Forest area (sq. km),AG.LND.FRST.K2,201995.4,200615.3,199235.1,197855,196474.8
+Thailand,THA,Forest area (% of land area),AG.LND.FRST.ZS,39.5379435886394,39.267807160054,38.9976511577835,38.7275147291981,..
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,
+Last Updated: 10/08/2026,,,,,,,,
+Code,License Type,Indicator Name,Short definition,Long definition,Source,Topic,Dataset,Unit of measure,Periodicity,Reference period,Aggregation method,Statistical concept and methodology,Development relevance,Limitations and exceptions,Other notes,License URL
+EN.ATM.PM25.MC.M3,CC BY-4.0,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","Population-weighted exposure to ambient PM2.5 pollution is defined as the average level of exposure of a nation's population to concentrations of suspended particles measuring less than 2.5 microns in aerodynamic diameter, which are capable of penetrating deep into the respiratory tract and causing severe health damage. Exposure is calculated by weighting mean annual concentrations of PM2.5 by population in both urban and rural areas.","Population-weighted exposure to ambient PM2.5 pollution is defined as the average level of exposure of a nation's population to concentrations of suspended particles measuring less than 2.5 microns in aerodynamic diameter, which are capable of penetrating deep into the respiratory tract and causing severe health damage. Exposure is calculated by weighting mean annual concentrations of PM2.5 by population in both urban and rural areas.","Global Burden of Disease Study 2023 (GBD 2023) Air Pollution Exposure Estimates and Risk Curves 1990-2023, GBD Collaborator Network, uri: https://ghdx.healthdata.org/record/ihme-data/gbd-2023-air-pollution-exposure-estimates-1990-2023, note: Need to create account to retrieve data., publisher: Institute for Health Metrics and Evaluation (IHME), date accessed: 2026-04-03, date published: 2026-01-23",Environment: Emissions,WB_WDI,microgram per cubic meter,Annual,1990-2023,Weighted average,"Methodology: Population exposure to ambient PM2.5 air pollution is estimated using an integrated modeling approach developed for the Global Burden of Disease (GBD) study by the Institute for Health Metrics and Evaluation (IHME). Annual mean concentrations of fine particulate matter (PM2.5) are derived by combining satellite-based aerosol optical depth measurements, chemical transport models, and available ground-level air quality monitoring data. These data sources are fused using geophysical–statistical models to generate globally consistent, high-resolution gridded estimates of PM2.5 concentrations, including areas without direct monitoring.
+
+Population exposure is calculated by weighting annual mean PM2.5 concentrations by the spatial distribution of population in both urban and rural areas. National estimates represent the population-weighted average annual concentration of PM2.5 to which a country’s population is exposed. Estimates are produced annually using a consistent methodology to allow comparison across countries and over time. Values represent modeled exposure levels and are intended for comparative risk assessment rather than regulatory compliance monitoring.
+Statistical concept(s): Fine particulate matter (PM2.5) refers to airborne particles with an aerodynamic diameter of 2.5 micrometers or less, which are small enough to penetrate deeply into the human respiratory system. Exposure to PM2.5 is associated with adverse health outcomes, including cardiovascular and respiratory diseases and premature mortality.","Air pollution places a major burden on world health. In many places, including cities but also in rural areas, exposure to air pollution is the main environmental threat to health, responsible for 6.5 million deaths per year, about one every 5 seconds. Around 40 percent of the world’s people rely on household burning of wood, charcoal, dung, crop waste, or coal to meet basic energy needs. Cooking and heating with solid fuels create harmful smoke and particles that fill homes and the surrounding environment. Household air pollution from cooking and heating with solid fuels is responsible for 2.9 million deaths a year. Long-term exposure to high levels of fine particles in the air contributes to a range of health effects, including respiratory diseases, lung cancer, and heart disease, resulting in 4.2 million deaths annually. Not only does exposure to air pollution affect the health of the world’s people, it also carries huge economic costs and represents a drag on development, particularly for low and middle income countries and vulnerable segments of the population such as children and the elderly.","Pollutant concentrations are sensitive to local conditions, and even monitoring sites in the same city may register different levels. Direct monitoring of PM2.5 is still rare in most parts of the world, and measurement protocols and standards are not the same for all countries. These data should be considered only a general indication of air quality, intended to inform cross-country comparisons of the health risks due to particulate matter pollution. The guideline set by the World Health Organization (WHO) for PM2.5 is that annual mean concentrations should not exceed 10 micrograms per cubic meter, representing the lower range over which adverse health effects have been observed. The WHO has also recommended guideline values for emissions of PM2.5 from burning fuels in households.",,https://datacatalog.worldbank.org/public-licenses#cc-by
+EN.GHG.CO2.MT.CE.AR5,CC BY-4.0,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),"A measure of annual emissions of carbon dioxide (CO2), one of the six Kyoto greenhouse gases (GHG), from the agriculture, energy, waste, and industrial sectors, excluding LULUCF. The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","A measure of annual emissions of carbon dioxide (CO2), one of the six Kyoto greenhouse gases (GHG), from the agriculture, energy, waste, and industrial sectors, excluding LULUCF. The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2024, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2024, publisher: International Energy Agency (IEA), date published: 2024",Environment: Emissions,WB_WDI,Mt CO2eq,Annual,1970-2024,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+
+
+
+
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+
+
+
+
+
+?? =??×????
+
+
+
+
+
+
+Where:
+
+
+
+
+
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+
+
+
+
+
+
+A = Activity data (e.g., fuel consumption, production levels)
+
+
+
+
+
+
+EF = Emission factor (kg of pollutant per unit of activity)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Depending on the pollutant, different tiers of complexity are used:
+
+
+
+
+
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+
+
+
+
+
+
+Tier 2 – Country/region-specific emission factors
+
+
+
+
+
+
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",,https://datacatalog.worldbank.org/public-licenses#cc-by
+EN.GHG.CO2.IP.MT.CE.AR5,CC BY-4.0,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),"A measure of annual emissions of carbon dioxide (CO2), one of the six Kyoto greenhouse gases (GHG), from industrial processes including IPCC 2006 codes 2.A.1 Cement production, 2.A.2 Lime production, 2.A.3 Glass Production, 2.A.4 Other Process Uses of Carbonates, 2.B Chemical Industry, 2.C Metal Industry, 2.D Non-Energy Products from Fuels and Solvent Use, 2.E Electronics Industry, 2.F Product Uses as Substitutes for Ozone Depleting Substances, 2.G Other Product Manufacture and Use and 5.A Indirect N2O emissions from the atmospheric deposition of nitrogen in NOx and NH3. The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","A measure of annual emissions of carbon dioxide (CO2), one of the six Kyoto greenhouse gases (GHG), from industrial processes including IPCC 2006 codes 2.A.1 Cement production, 2.A.2 Lime production, 2.A.3 Glass Production, 2.A.4 Other Process Uses of Carbonates, 2.B Chemical Industry, 2.C Metal Industry, 2.D Non-Energy Products from Fuels and Solvent Use, 2.E Electronics Industry, 2.F Product Uses as Substitutes for Ozone Depleting Substances, 2.G Other Product Manufacture and Use and 5.A Indirect N2O emissions from the atmospheric deposition of nitrogen in NOx and NH3. The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2024, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2024, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WB_WDI,Mt CO2eq,Annual,1970-2024,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+
+
+
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+
+
+
+
+?? =??×????
+
+
+
+
+
+Where:
+
+
+
+
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+
+
+
+
+
+A = Activity data (e.g., fuel consumption, production levels)
+
+
+
+
+
+EF = Emission factor (kg of pollutant per unit of activity)
+
+
+
+
+
+
+
+
+
+
+
+Depending on the pollutant, different tiers of complexity are used:
+
+
+
+
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+
+
+
+
+
+Tier 2 – Country/region-specific emission factors
+
+
+
+
+
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",,https://datacatalog.worldbank.org/public-licenses#cc-by
+EN.POP.DNST,CC BY-4.0,Population density (people per sq. km of land area),"Population density is midyear population divided by land area in square kilometers. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of their country of origin. Land area is a country's total area, excluding area under inland water bodies, national claims to continental shelf, and exclusive economic zones. In most cases the definition of inland water bodies includes major rivers and lakes.","Population density is midyear population divided by land area in square kilometers. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of their country of origin. Land area is a country's total area, excluding area under inland water bodies, national claims to continental shelf, and exclusive economic zones. In most cases the definition of inland water bodies includes major rivers and lakes.","FAO population estimates, Food and Agriculture Organization of the United Nations (FAO), publisher: Food and Agriculture Organization of the United Nations (FAO);
+World Bank population estimates, World Bank (WB), publisher: World Bank (WB)",Environment: Density & urbanization,WB_WDI,people per square kilometer of land area,Annual,1961-2024,Weighted average,"Methodology: Population density is midyear population divided by land area in square kilometers. This ratio can be calculated for any territorial unit for any point in time, depending on the source of the population data. Population estimates are prepared by World Bank staff from variety of sources. They are based on the de facto definition of population and include all residents regardless of legal status or citizenship, within the physical boundaries of a country and under the jurisdiction of that country's political control. Refugees not permanently settled in the country of asylum are considered part of the population of their country of origin. Population numbers are either current census data or historical census data extrapolated through demographic methods. The count also excludes visitors from overseas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Population density is calculated by dividing midyear population by land area in a country. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship - except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of their country of origin. Land area is a country's total area, excluding area under inland water bodies, national claims to continental shelf, and exclusive economic zones. In most cases the definition of inland water bodies includes major rivers and lakes.","Population estimates are usually based on national population censuses. Estimates for the years before and after the census are interpolations or extrapolations based on demographic models. Errors and undercounting occur even in high-income countries; in developing countries errors may be substantial because of limits in the transport, communications, and other resources required conducting and analyzing a full census.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Population density is a measure of the intensity of land-use, and can be calculated for a block, city, county, state, country, continent or the entire world. Considering that over half of the Earth's land mass consists of areas inhospitable to human inhabitation, such as deserts and high mountains, and that population tends to cluster around seaports and fresh water sources, a simple number of population density by itself does not give any meaningful measurement of human population density.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Several of the most densely populated territories in the world are city-states, microstates, or dependencies.[6][7] These territories share a relatively small area and a high urbanization level, with an economically specialized city population drawing also on rural resources outside the area, illustrating the difference between high population density and overpopulation.","Current population estimates for developing countries that lack recent census data and pre- and post-census estimates for countries with census data are provided by the United Nations Population Division and other agencies. The cohort component method - a standard method for estimating and projecting population - requires fertility, mortality, and net migration data, often collected from sample surveys, which can be small or limited in coverage. Population estimates are from demographic modeling and so are susceptible to biases and errors from shortcomings in the model and in the data. Because the five-year age group is the cohort unit and five-year period data are used, interpolations to obtain annual data or single age structure may not reflect actual events or age composition.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The quality and reliability of official demographic data are also affected by public trust in the government, government commitment to full and accurate enumeration, confidentiality and protection against misuse of census data, and census agencies' independence from political influence. Moreover, comparability of population indicators is limited by differences in the concepts, definitions, collection procedures, and estimation methods used by national statistical agencies and other organizations that collect the data.",,https://datacatalog.worldbank.org/public-licenses#cc-by
+AG.LND.TOTL.UR.K2,CC BY-4.0,Urban land area (sq. km),"Urban land area in square kilometers, based on a combination of population counts (persons), settlement points, and the presence of nighttime lights. Areas are defined as urban where contiguous lighted cells from the nighttime lights or approximated urban extents based on buffered settlement points for which the total population is greater than 5,000 persons.","Urban land area in square kilometers, based on a combination of population counts (persons), settlement points, and the presence of nighttime lights. Areas are defined as urban where contiguous lighted cells from the nighttime lights or approximated urban extents based on buffered settlement points for which the total population is greater than 5,000 persons.","Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 2, Center For International Earth Science Information Network (CIESIN) - Columbia University, uri: https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-lecz-urplaev2-2.00, publisher: NASA Socioeconomic Data and Applications Center (SEDAC), date published: 2013",Environment: Land use,WB_WDI,square kilometers,Annual,1990-2015,Sum,"Methodology: The Global Rural-Urban Mapping Project, Version 1 (GRUMPv1) urban extent grid distinguishes urban and rural areas based on a combination of population counts (persons), settlement points, and the presence of Nighttime Lights . Areas are defined as urban where contiguous lighted cells from the Nighttime Lights or approximated urban extents based on buffered settlement points for which the total population is greater than 5,000 persons. This dataset is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with the International Food Policy Research Institute (IFPRI), The World Bank, and Centro Internacional de Agricultura Tropical (CIAT)",,,,https://datacatalog.worldbank.org/public-licenses#cc-by
+AG.LND.FRST.K2,CC BY-4.0,Forest area (sq. km),"Forest area is land under natural or planted stands of trees of at least 5 meters in situ, whether productive or not, and excludes tree stands in agricultural production systems (for example, in fruit plantations and agroforestry systems) and trees in urban parks and gardens.","Forest area is land under natural or planted stands of trees of at least 5 meters in situ, whether productive or not, and excludes tree stands in agricultural production systems (for example, in fruit plantations and agroforestry systems) and trees in urban parks and gardens.","FAOSTAT, Food and Agriculture Organization of the United Nations (FAO), uri: https://www.fao.org/faostat/en/#data/RL, publisher: Food and Agriculture Organization of the United Nations (FAO)",Environment: Land use,WB_WDI,square kilometers,Annual,1990-2025,Sum,"Methodology: Forest is determined both by the presence of trees and the absence of other predominant land uses. The trees should reach a minimum height of 5 meters in situ. Areas under reforestation that have not yet reached but are expected to reach a canopy cover of 10 percent and a tree height of 5 meters are included, as are temporarily unstocked areas, resulting from human intervention or natural causes, which are expected to regenerate.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FAO provides detail information on forest cover, and adjusted estimates of forest cover. The current survey uses a uniform definition of forest. Although FAO provides a breakdown of forest cover between natural forest and plantation for developing countries, this indicator data does not reflect that breakdown. Thus the deforestation data may underestimate the rate at which natural forest is disappearing in some countries.
+Statistical concept(s): Forest - Forests are lands of more than 0.5 hectares, with a tree canopy cover of more than 10 percent, which are not primarily under agricultural or urban land use. Forests are determined both by the presence of trees and the absence of other predominant land uses. The trees should be able to reach a minimum height of 5 meters in situ. Areas under reforestation which have yet to reach a crown density of 10 percent or tree height of 5 m are included, as are temporarily unstocked areas, resulting from human intervention or natural causes, that are expected to regenerate. The term specifically includes: forest nurseries and seed orchards that constitute an integral part of the forest; forest roads, firebreaks and other small open areas; forest in national parks, nature reserves and other protected areas such as those of specific scientific, historical, cultural or spiritual interest; windbreaks and shelterbelts of trees with an area of more than 0.5 ha and width of more than 20 m; plantations primarily used for forestry purposes, including rubberwood plantations and cork oak stands. The term specifically excludes trees planted primarily for agricultural production, for example in fruit plantations and agroforestry systems.","As threats to biodiversity mount, the international community is increasingly focusing on conserving diversity. Deforestation is a major cause of loss of biodiversity, and habitat conservation is vital for stemming this loss. Conservation efforts have focused on protecting areas of high biodiversity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+On a global average, more than one-third of all forest is primary forest, i.e. forest of native species where there are no clearly visible indications of human activities and the ecological processes have not been significantly disturbed. Primary forests, in particular tropical moist forests, include the most species-rich, diverse terrestrial ecosystems. The decrease of primary forest area, 0.4 percent over a ten-year period, is largely due to reclassification of primary forest to "other naturally regenerated forest" because of selective logging and other human interventions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+National parks, game reserves, wilderness areas and other legally established protected areas cover more than 10 percent of the total forest area in most countries and regions. FAO estimates that around 10 million people are employed in forest management and conservation - but many more are directly dependent on forests for their livelihoods. Also, about 80 percent of the world's forests are publicly owned, but ownership and management of forests by communities, individuals and private companies is on the rise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close to 1.2 billion hectares of forest are managed primarily for the production of wood and non-wood forest products. An additional 25 percent of forest area is designated for multiple uses - in most cases including the production of wood and non-wood forest products. The area designated primarily for productive purposes has decreased by more than 50 million hectares since 1990 as forests have been designated for other purposes.","The Food and Agricultural Organization (FAO) has been collecting and analyzing data on forest area since 1946. This is done at intervals of 5-10 years as part of the Global Forest Resources Assessment (FRA). FAO reports data for 229 countries and territories; for the remaining 56 small island states and territories where no information is provided, a report is prepared by FAO using existing information and a literature search. The data are aggregated at sub-regional, regional and global levels by the FRA team at FAO, and estimates are produced by straight summation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The lag between the reference year and the actual production of data series as well as the frequency of data production varies between countries. Deforested areas do not include areas logged but intended for regeneration or areas degraded by fuelwood gathering, acid precipitation, or forest fires. Negative numbers indicate an increase in forest area.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data includes areas with bamboo and palms; forest roads, firebreaks and other small open areas; forest in national parks, nature reserves and other protected areas such as those of specific scientific, historical, cultural or spiritual interest; windbreaks, shelterbelts and corridors of trees with an area of more than 0.5 hectares and width of more than 20 meters; plantations primarily used for forestry or protective purposes, such as rubber-wood plantations and cork oak stands. Data excludes tree stands in agricultural production systems, such as fruit plantations and agroforestry systems. Forest area also excludes trees in urban parks and gardens. The proportion of forest area to total land area is calculated and changes in the proportion are computed to identify trends.",The world and regional aggregate series do not include data from countries that no longer exist.,https://datacatalog.worldbank.org/public-licenses#cc-by
+AG.LND.FRST.ZS,CC BY-4.0,Forest area (% of land area),"Forest area (% of land area) is the share of total land area that is under natural or planted stands of trees of at least 5 meters in situ, whether productive or not, and excludes tree stands in agricultural production systems (for example, in fruit plantations and agroforestry systems) and trees in urban parks and gardens.","Forest area (% of land area) is the share of total land area that is under natural or planted stands of trees of at least 5 meters in situ, whether productive or not, and excludes tree stands in agricultural production systems (for example, in fruit plantations and agroforestry systems) and trees in urban parks and gardens.","FAOSTAT, Food and Agriculture Organization of the United Nations (FAO), uri: https://www.fao.org/faostat/en/#data/RL, publisher: Food and Agriculture Organization of the United Nations (FAO)",Environment: Land use,WB_WDI,% (share) of land area,Annual,1990-2024,Weighted average,"Methodology: Forest is determined both by the presence of trees and the absence of other predominant land uses. The trees should reach a minimum height of 5 meters in situ. Areas under reforestation that have not yet reached but are expected to reach a canopy cover of 10 percent and a tree height of 5 meters are included, as are temporarily unstocked areas, resulting from human intervention or natural causes, which are expected to regenerate.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Food and Agriculture Organization (FAO) provides detail information on forest cover, and adjusted estimates of forest cover. The survey uses a uniform definition of forest. Although FAO provides a breakdown of forest cover between natural forest and plantation for developing countries, forest data used to derive this indicator data does not reflect that breakdown. Total land area does not include inland water bodies such as major rivers and lakes. Variations from year to year may be due to updated or revised data rather than to change in area. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The indicator is derived by dividing total area under forest of a country by country's total land area, and multiplying by 100.
+Statistical concept(s): Forest - Forests are lands of more than 0.5 hectares, with a tree canopy cover of more than 10 percent, which are not primarily under agricultural or urban land use. Forests are determined both by the presence of trees and the absence of other predominant land uses. The trees should be able to reach a minimum height of 5 meters in situ. Areas under reforestation which have yet to reach a crown density of 10 percent or tree height of 5 m are included, as are temporarily unstocked areas, resulting from human intervention or natural causes, that are expected to regenerate. The term specifically includes: forest nurseries and seed orchards that constitute an integral part of the forest; forest roads, firebreaks and other small open areas; forest in national parks, nature reserves and other protected areas such as those of specific scientific, historical, cultural or spiritual interest; windbreaks and shelterbelts of trees with an area of more than 0.5 ha and width of more than 20 m; plantations primarily used for forestry purposes, including rubberwood plantations and cork oak stands. The term specifically excludes trees planted primarily for agricultural production, for example in fruit plantations and agroforestry systems.","As threats to biodiversity mount, the international community is increasingly focusing on conserving diversity. Deforestation is a major cause of loss of biodiversity, and habitat conservation is vital for stemming this loss. Conservation efforts have focused on protecting areas of high biodiversity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+On a global average, more than one-third of all forest is primary forest, i.e. forest of native species where there are no clearly visible indications of human activities and the ecological processes have not been significantly disturbed. Primary forests, in particular tropical moist forests, include the most species-rich, diverse terrestrial ecosystems. The decrease of forest area, .11 percent over a ten-year period, is largely due to reclassification of primary forest to "other naturally regenerated forest" because of selective logging and other human interventions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Destruction of rainforests remains a significant environmental problem Much of what remains of the world's rainforests is in the Amazon basin, where the Amazon Rainforest covers approximately 4 million square kilometers. The regions with the highest tropical deforestation rate are in Central America and tropical Asia. FAO estimates that the decrease of primary forest area, 0.4 percent over a ten-year period, is largely due to reclassification of primary forest to "other naturally regenerated forest" because of selective logging and other human interventions. Large-scale planting of trees is significantly reducing the net loss of forest area globally, and afforestation and natural expansion of forests in some countries and regions have reduced the net loss of forest area significantly at the global level.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Forests cover about 31 percent of total land area of the world; the world's total forest area is just over 4 billion hectares. On a global average, more than one-third of all forest is primary forest, i.e. forest of native species where there are no clearly visible indications of human activities and the ecological processes have not been significantly disturbed. Primary forests, in particular tropical moist forests, include the most species-rich, diverse terrestrial ecosystems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+National parks, game reserves, wilderness areas and other legally established protected areas cover more than 10 percent of the total forest area in most countries and regions. FAO estimates that around 10 million people are employed in forest management and conservation - but many more are directly dependent on forests for their livelihoods. Close to 1.2 billion hectares of forest are managed primarily for the production of wood and non-wood forest products. An additional 25 percent of forest area is designated for multiple uses - in most cases including the production of wood and non-wood forest products. The area designated primarily for productive purposes has decreased by more than 50 million hectares since 1990 as forests have been designated for other purposes.","FAO has been collecting and analyzing data on forest area since 1946. This is done at intervals of 5-10 years as part of the Global Forest Resources Assessment (FRA). FAO reports data for 229 countries and territories; for the remaining 56 small island states and territories where no information is provided, a report is prepared by FAO using existing information and a literature search. The data are aggregated at sub-regional, regional and global levels by the FRA team at FAO, and estimates are produced by straight summation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The lag between the reference year and the actual production of data series as well as the frequency of data production varies between countries. Deforested areas do not include areas logged but intended for regeneration or areas degraded by fuelwood gathering, acid precipitation, or forest fires. Negative numbers indicate an increase in forest area.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data includes areas with bamboo and palms; forest roads, firebreaks and other small open areas; forest in national parks, nature reserves and other protected areas such as those of specific scientific, historical, cultural or spiritual interest; windbreaks, shelterbelts and corridors of trees with an area of more than 0.5 hectares and width of more than 20 meters; plantations primarily used for forestry or protective purposes, such as rubber-wood plantations and cork oak stands. Data excludes tree stands in agricultural production systems, such as fruit plantations and agroforestry systems. Forest area also excludes trees in urban parks and gardens. The proportion of forest area to total land area is calculated and changes in the proportion are computed to identify trends.",The world and regional aggregate series do not include data from countries that no longer exist.,https://datacatalog.worldbank.org/public-licenses#cc-by
